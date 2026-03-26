@@ -3,7 +3,9 @@
 Sistema de registro de veículos em estacionamento via terminal.
 
 # Equipe 
-- Marcos Júnior Lemes Ferreira  
+- Marcos Júnior Lemes Ferreira
+- Lucas Luiz Guesser
+- Mônica Cancellier
 
 ## Funcionalidades
 
