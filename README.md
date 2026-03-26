@@ -2,6 +2,9 @@
 
 Sistema de registro de veículos em estacionamento via terminal.
 
+# Equipe 
+- Marcos Júnior Lemes Ferreira  
+
 ## Funcionalidades
 
 - Registrar entrada e saída de veículos
